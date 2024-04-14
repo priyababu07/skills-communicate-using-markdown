@@ -4,3 +4,4 @@
 #### I worked hard
 ##### I am passionate person
 ###### Who loves talking
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
